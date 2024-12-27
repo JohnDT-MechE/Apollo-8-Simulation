@@ -1,1 +1,1 @@
-# Apollo-8-Simulation
+# Apollo 8 Simulation
